@@ -444,3 +444,5 @@ Daniil Gentili (http://daniil.it)
 
 [Privacy Policy of pwrtelegram.xyz website](http://privacypolicies.com/privacy/view/Yv8dZc)  
 [Cookie Policy of pwrtelegram.xyz website](https://cookie.daniil.it/?w=pwrtelegram)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vijay62/pwrtelegram/tree/master)
